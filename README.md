@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ruthmbonet
 - 👀 I’m interested in Data Science
-- 💞️ I’m looking to collaborate on data science project applied to healthcare
+- 💞️ I’m looking to collaborate on data science's projects applied to healthcare
 
 
 <!---
